@@ -99,6 +99,6 @@ It provides two callback functions:
     this.tableHeader = header
   }
 ```
-
+ 
 - [Online Demo](https://panjiachen.github.io/vue-element-admin/#/excel/upload-excel)
 - [Online Code](https://github.com/PanJiaChen/vue-element-admin/blob/master/src/views/excel/upload-excel.vue)
